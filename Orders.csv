@@ -1,0 +1,271 @@
+Order ID,Order Date,CustomerName,State,City
+B-43602,28-11-2018,Madhav,Madhya Pradesh,Indore
+B-91591,07-09-2018,Rohan,Uttar Pradesh,Mathura
+B-13030,05-08-2018,Madan Mohan,Maharashtra,Pune
+B-94475,02-01-2018,Uuduv,Gujarat,Ahmedabad
+B-24916,11-10-2018,Gaurav,Maharashtra,Mumbai
+B-16615,04-03-2018,Sudved,Andhra Pradesh,Hyderabad
+B-77532,07-04-2018,Shiva,Delhi,Delhi
+B-70440,22-09-2018,Shresivy,Maharashtra,Mumbai
+B-42862,31-10-2018,Shresivy,Delhi,Delhi
+B-67361,13-12-2018,Madhav,Maharashtra,Mumbai
+B-29237,30-08-2018,Amol,Maharashtra,Mumbai
+B-28653,28-08-2018,Shresivy,Gujarat,Ahmedabad
+B-73855,10-11-2018,Gopal,Gujarat,Surat
+B-11594,16-12-2018,Lalita,Gujarat,Ahmedabad
+B-52126,04-08-2018,Sudved,Madhya Pradesh,Indore
+B-83205,15-11-2018,Sarita,Uttar Pradesh,Prayagraj
+B-86563,29-04-2018,Gaurav,Bihar,Patna
+B-61057,17-07-2018,Madhav,Gujarat,Surat
+B-51166,01-12-2018,Bhism,Gujarat,Surat
+B-99169,31-05-2018,Sudved,Uttar Pradesh,Mathura
+B-78712,30-03-2018,Yogesh,Uttar Pradesh,Prayagraj
+B-74445,16-08-2018,Rohan,Maharashtra,Mumbai
+B-25738,29-09-2018,Bhism,Uttar Pradesh,Mathura
+B-15051,11-09-2018,Lalita,Gujarat,Ahmedabad
+B-15409,29-08-2018,Sarita,Delhi,Delhi
+B-30581,26-08-2018,Gaurav,Gujarat,Surat
+B-35764,19-12-2018,Sudved,Maharashtra,Pune
+B-67675,30-07-2018,Rohan,Gujarat,Ahmedabad
+B-66049,15-07-2018,Harivansh,Gujarat,Ahmedabad
+B-43749,03-01-2018,Madhav,Maharashtra,Pune
+B-22412,14-02-2018,Uuduv,Andhra Pradesh,Hyderabad
+B-71486,02-02-2018,Gaurav,Delhi,Delhi
+B-43683,31-05-2018,Shishu,Bihar,Patna
+B-60220,12-09-2018,Shiva,Gujarat,Surat
+B-64031,04-02-2018,Bhism,Gujarat,Ahmedabad
+B-57016,29-05-2018,Harivansh,Gujarat,Surat
+B-59592,06-02-2018,Rohan,Uttar Pradesh,Prayagraj
+B-29492,18-04-2018,Shiva,Uttar Pradesh,Prayagraj
+B-32190,05-03-2018,Uuduv,Uttar Pradesh,Prayagraj
+B-57914,12-02-2018,Harivansh,Uttar Pradesh,Prayagraj
+B-65162,21-09-2018,Gopal,Delhi,Delhi
+B-73679,24-09-2018,Amol,Andhra Pradesh,Hyderabad
+B-66951,16-02-2018,Shresivy,Maharashtra,Pune
+B-64670,04-08-2018,Gaurav,Maharashtra,Pune
+B-99586,17-08-2018,Vishaka,Gujarat,Ahmedabad
+B-93030,24-08-2018,Shiva,Madhya Pradesh,Indore
+B-86706,15-12-2018,Gopal,Bihar,Patna
+B-45882,19-06-2018,Sarita,Delhi,Delhi
+B-33654,02-12-2018,Shishu,Andhra Pradesh,Hyderabad
+B-25910,28-10-2018,Madhav,Maharashtra,Pune
+B-36215,02-12-2018,Bhism,Uttar Pradesh,Prayagraj
+B-59497,01-11-2018,Yogesh,Uttar Pradesh,Prayagraj
+B-73644,20-05-2018,Sarita,Uttar Pradesh,Prayagraj
+B-40518,29-08-2018,Gaurav,Delhi,Delhi
+B-17670,20-06-2018,Gopal,Gujarat,Surat
+B-84124,23-11-2018,Madan Mohan,Delhi,Delhi
+B-13877,22-07-2018,Gaurav,Gujarat,Ahmedabad
+B-33462,23-11-2018,Madan Mohan,Madhya Pradesh,Indore
+B-97395,28-02-2018,Gopal,Maharashtra,Mumbai
+B-29825,20-07-2018,Madan Mohan,Gujarat,Ahmedabad
+B-31037,23-02-2018,Rohan,Gujarat,Surat
+B-28242,03-12-2018,Madhav,Gujarat,Ahmedabad
+B-47702,14-06-2018,Madhav,Delhi,Delhi
+B-91627,21-12-2018,Harivansh,Gujarat,Ahmedabad
+B-74385,20-10-2018,Gopal,Delhi,Delhi
+B-20096,30-07-2018,Shishu,Andhra Pradesh,Hyderabad
+B-30290,05-12-2018,Madhav,Delhi,Delhi
+B-12246,04-12-2018,Uuduv,Andhra Pradesh,Hyderabad
+B-56783,04-04-2018,Rohan,Andhra Pradesh,Hyderabad
+B-69350,15-01-2018,Amol,Delhi,Delhi
+B-20581,24-11-2018,Gaurav,Gujarat,Ahmedabad
+B-36935,27-12-2018,Sarita,Delhi,Delhi
+B-77603,25-08-2018,Gopal,Madhya Pradesh,Indore
+B-75890,09-10-2018,Gopal,Madhya Pradesh,Indore
+B-26737,26-11-2018,Bhism,Delhi,Delhi
+B-17388,13-10-2018,Vishaka,Maharashtra,Mumbai
+B-77865,16-12-2018,Rohan,Madhya Pradesh,Indore
+B-87787,10-05-2018,Rohan,Andhra Pradesh,Hyderabad
+B-88501,17-07-2018,Shishu,Delhi,Delhi
+B-83185,22-06-2018,Lalita,Gujarat,Surat
+B-49105,10-08-2018,Shishu,Maharashtra,Pune
+B-32930,03-03-2018,Sarita,Andhra Pradesh,Hyderabad
+B-55131,04-03-2018,Shiva,Andhra Pradesh,Hyderabad
+B-67614,01-12-2018,Shishu,Bihar,Patna
+B-43573,10-03-2018,Shiva,Andhra Pradesh,Hyderabad
+B-60792,10-12-2018,Harivansh,Delhi,Delhi
+B-87500,04-04-2018,Shresivy,Maharashtra,Mumbai
+B-98698,24-08-2018,Rohan,Maharashtra,Pune
+B-14662,13-03-2018,Vishaka,Gujarat,Ahmedabad
+B-18320,19-11-2018,Amol,Delhi,Delhi
+B-80408,17-05-2018,Uuduv,Delhi,Delhi
+B-23285,22-05-2018,Vishaka,Delhi,Delhi
+B-25726,22-05-2018,Shishu,Bihar,Patna
+B-60389,22-05-2018,Harivansh,Delhi,Delhi
+B-87002,13-02-2018,Shresivy,Andhra Pradesh,Hyderabad
+B-91893,02-12-2018,Shresivy,Gujarat,Ahmedabad
+B-92029,20-01-2018,Sudved,Madhya Pradesh,Indore
+B-15958,18-07-2018,Amol,Uttar Pradesh,Prayagraj
+B-52022,24-05-2018,Bhism,Maharashtra,Pune
+B-15254,25-06-2018,Vishaka,Gujarat,Surat
+B-41401,14-05-2018,Lalita,Delhi,Delhi
+B-29899,02-09-2018,Vishaka,Gujarat,Ahmedabad
+B-14870,16-12-2018,Madhav,Maharashtra,Pune
+B-76565,25-10-2018,Shresivy,Uttar Pradesh,Mathura
+B-24368,09-01-2018,Vishaka,Gujarat,Surat
+B-13389,05-06-2018,Gopal,Maharashtra,Pune
+B-19291,05-03-2018,Lalita,Andhra Pradesh,Hyderabad
+B-39357,11-02-2018,Vinida,Uttar Pradesh,Prayagraj
+B-53039,01-10-2018,Sarita,Bihar,Patna
+B-69045,11-02-2018,Vinida,Delhi,Delhi
+B-45038,19-09-2018,Madan Mohan,Gujarat,Ahmedabad
+B-93366,01-11-2018,Madan Mohan,Bihar,Patna
+B-70333,05-02-2018,Shishu,Bihar,Patna
+B-76214,02-02-2018,Madan Mohan,Gujarat,Surat
+B-39703,01-02-2018,Sudved,Madhya Pradesh,Indore
+B-58122,05-12-2018,Sudved,Gujarat,Surat
+B-32690,06-08-2018,Sarita,Gujarat,Surat
+B-29631,01-12-2018,Harivansh,Gujarat,Ahmedabad
+B-28255,15-10-2018,Sudved,Uttar Pradesh,Mathura
+B-12281,28-01-2018,Sarita,Uttar Pradesh,Prayagraj
+B-91524,07-08-2018,Gopal,Maharashtra,Pune
+B-86661,27-07-2018,Gopal,Madhya Pradesh,Indore
+B-52634,09-03-2018,Harivansh,Maharashtra,Mumbai
+B-10878,02-01-2018,Harivansh,Bihar,Patna
+B-72472,16-08-2018,Shresivy,Gujarat,Ahmedabad
+B-37354,23-10-2018,Vishaka,Gujarat,Ahmedabad
+B-59051,24-08-2018,Shishu,Delhi,Delhi
+B-21545,04-10-2018,Vishaka,Gujarat,Ahmedabad
+B-93360,28-11-2018,Madhav,Andhra Pradesh,Hyderabad
+B-35444,07-09-2018,Sudved,Gujarat,Surat
+B-88597,22-08-2018,Gaurav,Gujarat,Ahmedabad
+B-97021,12-12-2018,Rohan,Madhya Pradesh,Indore
+B-10182,17-10-2018,Shishu,Maharashtra,Mumbai
+B-75045,22-02-2018,Vishaka,Gujarat,Ahmedabad
+B-51662,11-01-2018,Rohan,Madhya Pradesh,Indore
+B-68722,25-06-2018,Harivansh,Madhya Pradesh,Indore
+B-37662,10-05-2018,Harivansh,Bihar,Patna
+B-72945,28-06-2018,Lalita,Bihar,Patna
+B-96322,30-08-2018,Harivansh,Maharashtra,Mumbai
+B-48842,20-04-2018,Madan Mohan,Gujarat,Ahmedabad
+B-42426,14-05-2018,Lalita,Maharashtra,Pune
+B-43562,05-09-2018,Vishaka,Andhra Pradesh,Hyderabad
+B-63810,24-11-2018,Uuduv,Delhi,Delhi
+B-95454,21-06-2018,Amol,Andhra Pradesh,Hyderabad
+B-88894,01-10-2018,Shiva,Bihar,Patna
+B-58656,22-10-2018,Shishu,Maharashtra,Pune
+B-18020,31-12-2018,Vishaka,Andhra Pradesh,Hyderabad
+B-28921,29-10-2018,Gaurav,Madhya Pradesh,Indore
+B-58626,12-04-2018,Lalita,Gujarat,Ahmedabad
+B-47861,22-06-2018,Gaurav,Gujarat,Ahmedabad
+B-57301,31-07-2018,Uuduv,Gujarat,Ahmedabad
+B-37507,22-05-2018,Yogesh,Delhi,Delhi
+B-54385,27-10-2018,Vinida,Uttar Pradesh,Mathura
+B-46118,08-06-2018,Uuduv,Uttar Pradesh,Prayagraj
+B-37342,12-10-2018,Gopal,Delhi,Delhi
+B-37940,14-05-2018,Harivansh,Maharashtra,Pune
+B-91312,24-02-2018,Shiva,Gujarat,Ahmedabad
+B-55942,31-05-2018,Bhism,Maharashtra,Pune
+B-72187,14-10-2018,Lalita,Gujarat,Ahmedabad
+B-51724,25-03-2018,Shresivy,Gujarat,Ahmedabad
+B-73656,18-01-2018,Sarita,Delhi,Delhi
+B-58442,13-06-2018,Madhav,Bihar,Patna
+B-46883,01-01-2018,Rohan,Uttar Pradesh,Mathura
+B-10129,09-02-2018,Vinida,Andhra Pradesh,Hyderabad
+B-41076,23-06-2018,Lalita,Gujarat,Surat
+B-16663,21-08-2018,Vishaka,Delhi,Delhi
+B-10321,07-09-2018,Gopal,Uttar Pradesh,Mathura
+B-61275,06-09-2018,Shishu,Uttar Pradesh,Prayagraj
+B-38305,08-09-2018,Bhism,Andhra Pradesh,Hyderabad
+B-80325,20-05-2018,Harivansh,Andhra Pradesh,Hyderabad
+B-84098,09-04-2018,Shresivy,Maharashtra,Pune
+B-32332,15-08-2018,Lalita,Bihar,Patna
+B-53421,06-11-2018,Rohan,Madhya Pradesh,Indore
+B-60277,22-12-2018,Shishu,Gujarat,Ahmedabad
+B-10295,25-01-2018,Shiva,Bihar,Patna
+B-52730,02-05-2018,Sudved,Bihar,Patna
+B-89075,29-01-2018,Lalita,Bihar,Patna
+B-70049,11-08-2018,Rohan,Delhi,Delhi
+B-88197,25-04-2018,Vinida,Gujarat,Ahmedabad
+B-28140,05-05-2018,Madan Mohan,Gujarat,Ahmedabad
+B-31048,19-09-2018,Sarita,Uttar Pradesh,Mathura
+B-57147,29-07-2018,Shresivy,Maharashtra,Mumbai
+B-55582,17-06-2018,Amol,Uttar Pradesh,Prayagraj
+B-21313,08-11-2018,Sudved,Maharashtra,Pune
+B-74459,14-04-2018,Gopal,Maharashtra,Pune
+B-63557,04-01-2018,Gaurav,Maharashtra,Mumbai
+B-55764,12-06-2018,Gopal,Gujarat,Ahmedabad
+B-37928,10-04-2018,Lalita,Maharashtra,Mumbai
+B-90291,03-08-2018,Shiva,Bihar,Patna
+B-15749,05-01-2018,Shiva,Uttar Pradesh,Prayagraj
+B-73555,24-04-2018,Amol,Gujarat,Ahmedabad
+B-16033,25-08-2018,Shiva,Bihar,Patna
+B-98629,06-04-2018,Shishu,Madhya Pradesh,Indore
+B-48420,08-06-2018,Madan Mohan,Maharashtra,Mumbai
+B-15620,30-11-2018,Gaurav,Madhya Pradesh,Indore
+B-31546,13-07-2018,Madan Mohan,Uttar Pradesh,Prayagraj
+B-79720,07-05-2018,Madhav,Bihar,Patna
+B-65062,02-08-2018,Sudved,Delhi,Delhi
+B-90424,10-04-2018,Gaurav,Madhya Pradesh,Indore
+B-28105,22-01-2018,Sudved,Delhi,Delhi
+B-19196,06-03-2018,Gaurav,Andhra Pradesh,Hyderabad
+B-61540,11-08-2018,Vishaka,Gujarat,Surat
+B-24692,04-10-2018,Shishu,Gujarat,Surat
+B-46921,27-08-2018,Lalita,Madhya Pradesh,Indore
+B-89459,25-07-2018,Gaurav,Maharashtra,Mumbai
+B-24195,15-01-2018,Sudved,Madhya Pradesh,Indore
+B-13594,13-12-2018,Vinida,Uttar Pradesh,Prayagraj
+B-61270,26-11-2018,Madan Mohan,Bihar,Patna
+B-51300,24-10-2018,Gaurav,Delhi,Delhi
+B-92232,10-08-2018,Madan Mohan,Delhi,Delhi
+B-12544,07-10-2018,Madhav,Gujarat,Surat
+B-26218,18-11-2018,Rohan,Gujarat,Ahmedabad
+B-45027,09-11-2018,Lalita,Gujarat,Surat
+B-96096,10-01-2018,Vishaka,Gujarat,Surat
+B-17220,09-10-2018,Amol,Bihar,Patna
+B-93208,28-02-2018,Amol,Uttar Pradesh,Mathura
+B-64542,14-10-2018,Harivansh,Uttar Pradesh,Prayagraj
+B-89578,12-12-2018,Shiva,Gujarat,Surat
+B-63544,04-01-2018,Madan Mohan,Uttar Pradesh,Mathura
+B-16972,01-05-2018,Bhism,Delhi,Delhi
+B-36538,19-07-2018,Vinida,Maharashtra,Mumbai
+B-41466,05-09-2018,Sudved,Uttar Pradesh,Prayagraj
+B-14684,06-11-2018,Lalita,Gujarat,Ahmedabad
+B-97986,12-01-2018,Sarita,Uttar Pradesh,Mathura
+B-76259,19-01-2018,Sarita,Uttar Pradesh,Prayagraj
+B-27209,28-05-2018,Bhism,Gujarat,Surat
+B-73700,27-06-2018,Gopal,Delhi,Delhi
+B-17909,03-10-2018,Lalita,Uttar Pradesh,Prayagraj
+B-43490,24-12-2018,Shishu,Gujarat,Surat
+B-89638,23-04-2018,Madhav,Maharashtra,Mumbai
+B-70575,10-01-2018,Harivansh,Maharashtra,Pune
+B-41958,01-12-2018,Shiva,Madhya Pradesh,Indore
+B-56394,14-01-2018,Lalita,Delhi,Delhi
+B-90389,27-09-2018,Madhav,Maharashtra,Mumbai
+B-10319,07-08-2018,Shiva,Delhi,Delhi
+B-97294,20-06-2018,Shishu,Maharashtra,Mumbai
+B-87274,01-10-2018,Yogesh,Maharashtra,Mumbai
+B-59365,17-11-2018,Rohan,Madhya Pradesh,Indore
+B-66499,19-03-2018,Madhav,Uttar Pradesh,Mathura
+B-50545,04-04-2018,Shresivy,Bihar,Patna
+B-37303,18-06-2018,Vinida,Delhi,Delhi
+B-48656,23-06-2018,Madhav,Uttar Pradesh,Mathura
+B-38660,26-04-2018,Uuduv,Uttar Pradesh,Prayagraj
+B-67752,01-06-2018,Harivansh,Gujarat,Ahmedabad
+B-97030,22-09-2018,Vishaka,Delhi,Delhi
+B-12701,04-03-2018,Gopal,Bihar,Patna
+B-17478,09-11-2018,Vishaka,Uttar Pradesh,Mathura
+B-81643,01-12-2018,Madhav,Gujarat,Ahmedabad
+B-41403,30-11-2018,Lalita,Maharashtra,Mumbai
+B-24053,29-03-2018,Uuduv,Uttar Pradesh,Prayagraj
+B-96765,16-11-2018,Madan Mohan,Gujarat,Surat
+B-66525,29-06-2018,Shiva,Bihar,Patna
+B-18883,06-10-2018,Vinida,Bihar,Patna
+B-70531,14-01-2018,Vishaka,Bihar,Patna
+B-10691,27-05-2018,Shiva,Gujarat,Surat
+B-31332,13-06-2018,Sudved,Bihar,Patna
+B-55443,02-01-2018,Shresivy,Maharashtra,Pune
+B-90467,24-07-2018,Amol,Gujarat,Surat
+B-40648,17-03-2018,Yogesh,Maharashtra,Pune
+B-39176,09-04-2018,Sudved,Uttar Pradesh,Prayagraj
+B-86347,16-07-2018,Vinida,Gujarat,Ahmedabad
+B-60318,13-10-2018,Vinida,Bihar,Patna
+B-37122,04-11-2018,Shresivy,Gujarat,Surat
+B-97185,08-04-2018,Harivansh,Uttar Pradesh,Mathura
+B-34294,15-04-2018,Vinida,Uttar Pradesh,Prayagraj
+B-93941,04-08-2018,Vinida,Maharashtra,Pune
+B-21758,16-09-2018,Vinida,Uttar Pradesh,Mathura
+B-90601,14-01-2018,Sarita,Gujarat,Ahmedabad
+B-52283,29-10-2018,Rohan,Maharashtra,Pune
+B-35064,30-05-2018,Yogesh,Bihar,Patna
